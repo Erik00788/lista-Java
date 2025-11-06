@@ -1,0 +1,30 @@
+public class NomeDaClasse {
+
+    public static void main(String[] args) {
+
+        public class música {
+        música = new música 
+        classe No{
+        int = númeromúsica;
+        int = músicaatual;
+        int  = próxmúsica;
+        próxmusica=null
+
+        No música;
+        // encadeando uma lista de músicas.
+           public  void  itens(númeromúsica){
+                if(música==null){
+                númeromúsica == músicaatual;
+               System.out.println(" o tempo da música permanece fica"+ músicaatual );
+                      }else {
+                      númeromúsica!=músicaatual 
+                       System.out.println('Próxima música da lista'+próxmúsica);
+                      }
+                 while(músicaatual.próxmusiaca!=null){
+                       músicaatual= músicaatual.proxmúsica
+                 }
+               músicaatual= InovadoNo;
+         }
+
+    }
+}
