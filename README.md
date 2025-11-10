@@ -1,1 +1,25 @@
-# lista-Java
+# LIFO e FIFO
+
+LIFO (Último a Entrar, Primeiro a Sair) e FIFO (Primeiro a Entrar, Primeiro a Sair) são princípios que definem a ordem de processamento de elementos.
+
+1. FIFO (First In, First Out)
+Conceito: Quem entra primeiro, sai primeiro.
+
+Estrutura de Dados: Fila (Queue).
+
+Exemplo Real: Uma fila de atendimento em que o cliente mais antigo é atendido primeiro.
+
+Operações: Enqueue (adiciona no final) e Dequeue (remove do início).
+
+2. LIFO (Last In, First Out)
+Conceito: Quem entra por último, sai primeiro.
+
+Estrutura de Dados: Pilha (Stack).
+
+Exemplo Real: Uma pilha de bandejas em que a última bandeja colocada no topo é a primeira a ser usada.
+
+Operações: Push (adiciona no topo) e Pop (remove do topo).
+
+
+Erik Efraim Roque da Silva 
+01822625
